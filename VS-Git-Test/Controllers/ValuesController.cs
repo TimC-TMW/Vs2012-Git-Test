@@ -12,6 +12,7 @@ namespace VS_Git_Test.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
+            //test see git pick up this change
             return new string[] { "value1", "value2" };
         }
 
